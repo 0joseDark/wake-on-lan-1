@@ -1,5 +1,4 @@
 # wake-on-lan-1
- used pywakeonlan
  Abaixo está o script atualizado para enviar pacotes Wake-on-LAN usando o módulo **`pywakeonlan`**. Este módulo é compatível com o Windows 10 e facilita o envio de pacotes mágicos.
 
 ---
